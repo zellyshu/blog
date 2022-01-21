@@ -46,7 +46,7 @@ params:
     tocopen: false
 
     assets:
-        # disableHLJS: true # to disable highlight.js
+        disableHLJS: true # to disable highlight.js
         # disableFingerprinting: true
         favicon: "favicon.png"
         # favicon16x16: "<link / abs url>"
@@ -137,14 +137,8 @@ menu:
 pygmentsUseClasses: true
 markup:
     highlight:
-        anchorLineNos: false
+        # anchorLineNos: true
         codeFences: true
-        guessSyntax: false
-        hl_Lines: ""
-        lineAnchors: ""
-        lineNoStart: 1
-        lineNos: false
-        lineNumbersInTable: true
-        noClasses: true
+        guessSyntax: true
+        lineNos: true
         style: monokai
-        tabWidth: 4
