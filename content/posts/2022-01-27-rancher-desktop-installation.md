@@ -3,8 +3,8 @@ title: "Rancher Desktop 1.0으로 Docker Desktop 대체해보기"
 date: 2022-01-27 16:28:49
 creation date: 2022-01-27 13:46
 modification date: 2022-01-27 16:28
-tags: ["Rancher Desktop", "Docker Desktop", "Kubernetes", "Container Management"]
-categories: ["Rancher Desktop", "Docker Desktop"]
+tags: ["Rancher Desktop", "Docker Desktop", "Kubernetes", "Container Management", "OpenSource"]
+categories: ["Rancher Desktop", "Docker Desktop", "OpenSource"]
 author: "Me"
 draft: false
 
